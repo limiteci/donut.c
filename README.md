@@ -27,4 +27,4 @@ t*d);o=x+80*y;N          =8*((g*a-G*h*e)
 
 ![](https://github.com/limiteci/limiteci/blob/main/esc/images/donut1.gif)
 
-### (also a .py version that should generate a 3D spinning donut in python 3.0+)
+### (also a [.py version](https://github.com/limiteci/donut.c/blob/main/donut.py) that should generate a 3D spinning donut in python 3.0+)
